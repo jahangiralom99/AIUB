@@ -1,0 +1,36 @@
+.container {
+  border: 2px solid black;
+  padding: 20px;
+  width: 400px;
+  margin: auto;
+  margin-top: 50px;
+  position: relative;
+  border-radius: 4px;
+}
+
+.tour-text {
+  border: 2px solid black;
+  padding: 10px;
+  width: 150px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: white;
+  position: absolute;
+  top: -50px;
+  font-weight: bold;
+}
+.box {
+  margin: 20px;
+}
+
+.box label {
+  font-weight: bold;
+}
+.check-btn {
+  text-align: right;
+}
+.check-btn button {
+  padding: 7px 20px;
+  border: 2px solid black;
+  border-radius: 3px;
+}
